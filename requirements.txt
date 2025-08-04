@@ -1,0 +1,4 @@
+vosk>=0.3.42
+imageio-ffmpeg>=0.4.7
+yt-dlp>=2023.1.6
+pyinstaller>=5.0
